@@ -1,0 +1,12 @@
+# Node & React
+node_modules/
+frontend/build/
+
+# Python
+venv/
+*.pyc
+*.pkl
+*.db
+
+# OS Files
+.DS_Store
